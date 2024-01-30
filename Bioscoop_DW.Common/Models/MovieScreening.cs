@@ -19,6 +19,17 @@ namespace Bioscoop_DW.Common.Models
             this.pricePerSeat = pricePerSeat;
         }
 
+        public bool IsWeekday()
+        {
+            return dateAndTime.DayOfWeek >= DayOfWeek.Monday && dateAndTime.DayOfWeek <= DayOfWeek.Thursday;
+        }
+
+        public bool IsWeekend()
+        {
+            return dateAndTime.DayOfWeek == DayOfWeek.Friday || dateAndTime.DayOfWeek == DayOfWeek.Saturday ||
+                   dateAndTime.DayOfWeek == DayOfWeek.Sunday;
+        }
+
         public double GetPricePerSeat()
         {
             return pricePerSeat;
