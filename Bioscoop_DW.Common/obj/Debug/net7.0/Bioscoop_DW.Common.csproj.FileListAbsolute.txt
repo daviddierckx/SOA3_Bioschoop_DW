@@ -10,3 +10,15 @@ F:\Avans\Jaar3\Periode3\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bi
 F:\Avans\Jaar3\Periode3\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\refint\Bioscoop_DW.Common.dll
 F:\Avans\Jaar3\Periode3\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bioscoop_DW.Common.pdb
 F:\Avans\Jaar3\Periode3\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\ref\Bioscoop_DW.Common.dll
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\bin\Debug\net7.0\Bioscoop_DW.Common.deps.json
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\bin\Debug\net7.0\Bioscoop_DW.Common.dll
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\bin\Debug\net7.0\Bioscoop_DW.Common.pdb
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bioscoop_DW.Common.csproj.AssemblyReference.cache
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bioscoop_DW.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bioscoop_DW.Common.AssemblyInfoInputs.cache
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bioscoop_DW.Common.AssemblyInfo.cs
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bioscoop_DW.Common.csproj.CoreCompileInputs.cache
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bioscoop_DW.Common.dll
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\refint\Bioscoop_DW.Common.dll
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\Bioscoop_DW.Common.pdb
+C:\Users\dierc\OneDrive\Bureaublad\hetRondje\share-meal\SOA3_Bioschoop_DW\Bioscoop_DW.Common\obj\Debug\net7.0\ref\Bioscoop_DW.Common.dll

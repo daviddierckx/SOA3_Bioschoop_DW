@@ -1,0 +1,6 @@
+Order Details:
+Order Number: 1
+Is Student Order: False
+Ticket: Movie: Inception, 30/01/2024 21:31:17, Seat: 1-1, Premium: False
+Ticket: Movie: Inception, 30/01/2024 21:31:17, Seat: 1-2, Premium: True
+Total Price: $10

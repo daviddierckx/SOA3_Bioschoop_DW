@@ -11,4 +11,8 @@
     <ProjectReference Include="..\Bioscoop_DW.Common\Bioscoop_DW.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ExportedFiles\" />
+  </ItemGroup>
+
 </Project>

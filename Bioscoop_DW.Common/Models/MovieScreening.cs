@@ -35,9 +35,20 @@ namespace Bioscoop_DW.Common.Models
             return pricePerSeat;
         }
 
+
+        public Movie Movie
+        {
+            get { return movie; }
+        }
+
+        public DateTime DateAndTime
+        {
+            get { return dateAndTime; }
+        }
+
         public override string ToString()
         {
-            return $"{movie.ToString}, {dateAndTime}";
+            return $"{movie}, {dateAndTime}";
         }
         
     }

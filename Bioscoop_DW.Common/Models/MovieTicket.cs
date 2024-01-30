@@ -12,6 +12,10 @@ namespace Bioscoop_DW.Common.Models
         private readonly int seatNr;
         private readonly bool isPremium;
         private readonly MovieScreening movieScreening;
+        public MovieScreening MovieScreening
+        {
+            get { return movieScreening; }
+        }
 
         public MovieTicket(MovieScreening movieScreening, bool isPremiumReservation, int seatRow, int seatNumber)
         {
@@ -38,6 +42,16 @@ namespace Bioscoop_DW.Common.Models
             }
 
             return basePrice;
+        }
+
+
+        public int RowNr
+        {
+            get { return rowNr; }
+        }
+        public int SeatNr
+        {
+            get { return seatNr; }
         }
 
         public override string ToString()

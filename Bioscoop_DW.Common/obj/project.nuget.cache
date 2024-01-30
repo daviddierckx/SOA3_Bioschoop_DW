@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KNvQU01f/8rKc1lXEawepO+JkYEo0kusrCsMRznD923k4T/Rw3BfIhOS9JEsQHP0uEoDorNi4t4xh+cY1gxjow==",
+  "dgSpecHash": "8rfzynaVPNqpfOGQRsi5DPdkPn4RO8FpQtT8MQM7vrqJDVnItCVbx+vWT57Oh5vsh8VoGx40BGUwfOGXZCHzSQ==",
   "success": true,
-  "projectFilePath": "F:\\Avans\\Jaar3\\Periode3\\SOA3_Bioschoop_DW\\Bioscoop_DW.Common\\Bioscoop_DW.Common.csproj",
+  "projectFilePath": "C:\\Users\\dierc\\OneDrive\\Bureaublad\\hetRondje\\share-meal\\SOA3_Bioschoop_DW\\Bioscoop_DW.Common\\Bioscoop_DW.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\31628\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\31628\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\31628\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "C:\\Users\\dierc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bioscoo_DW.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f1ae10c12c07e59fea4606b269b1911d51083b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bioscoo_DW.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bioscoo_DW.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
