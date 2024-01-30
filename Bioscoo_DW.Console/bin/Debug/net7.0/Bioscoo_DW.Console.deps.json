@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Bioscoo_DW.Console/1.0.0": {
+        "dependencies": {
+          "Bioscoop_DW.Common": "1.0.0"
+        },
+        "runtime": {
+          "Bioscoo_DW.Console.dll": {}
+        }
+      },
+      "Bioscoop_DW.Common/1.0.0": {
+        "runtime": {
+          "Bioscoop_DW.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bioscoo_DW.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bioscoop_DW.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

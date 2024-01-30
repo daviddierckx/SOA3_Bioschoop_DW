@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "iYnN79goVbQE01m8D4O2xHXRy1S3KId+6VnfgIFvKamjvLNq7qdm7lXyJJRggoldXXt42u1EX7+SRbFxMLT/3g==",
+  "dgSpecHash": "KNvQU01f/8rKc1lXEawepO+JkYEo0kusrCsMRznD923k4T/Rw3BfIhOS9JEsQHP0uEoDorNi4t4xh+cY1gxjow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dierc\\source\\repos\\Bioscoo_DW.Console\\Bioscoop_DW.Common\\Bioscoop_DW.Common.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Avans\\Jaar3\\Periode3\\SOA3_Bioschoop_DW\\Bioscoop_DW.Common\\Bioscoop_DW.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\31628\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\31628\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\31628\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

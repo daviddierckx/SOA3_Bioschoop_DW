@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zBwDubbaKkmbNkF6RPXDpDfPMGtnZ9dT2rsmD2NwPvov9OQR38IqK21VbRg700jXBKfSepprwb7S6Gj/mcnPDg==",
+  "dgSpecHash": "alRy/cWhLTxlOooZB0wkEQOkJmDyGLNVVbFcl2jog/dQH3W6JTSaHzD7QuT5tcY6hStc8KmgczYLNE1Pr70KkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dierc\\source\\repos\\Bioscoo_DW.Console\\Bioscoo_DW.Console\\Bioscoo_DW.Console.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Avans\\Jaar3\\Periode3\\SOA3_Bioschoop_DW\\Bioscoo_DW.Console\\Bioscoo_DW.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\31628\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\31628\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\31628\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\31628\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

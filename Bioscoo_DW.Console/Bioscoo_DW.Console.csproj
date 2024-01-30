@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Bioscoop_DW.Common\Bioscoop_DW.Common.csproj" />
+  </ItemGroup>
+
 </Project>

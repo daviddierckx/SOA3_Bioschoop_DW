@@ -3,6 +3,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using System.Xml;
 
@@ -36,9 +38,25 @@ namespace Bioscoop_DW.Common.Models
                 return 0;
             }
 
-            public void Export(TicketExportFormat exportFormat, string fileName)
+            public void Export(TicketExportFormat exportFormat)
             {
-               
+               switch (exportFormat)
+            {
+                    case TicketExportFormat.PLAINTEXT:
+                        Console.WriteLine(this.ToString());
+                        break;
+                    case TicketExportFormat.JSON:
+                        object obj = new
+                        {
+                            orderNr = this.orderNr,
+                            isStudentOrder = this.isStudentOrder,
+                            seatReservations = this.seatReservations
+                        };
+                        Console.WriteLine(JsonSerializer.Serialize(obj));
+                        break;
+                    default:
+                        throw new Exception("Invalid export format");
+                }
             }
 
            
