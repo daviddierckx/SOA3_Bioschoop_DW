@@ -5,19 +5,26 @@
     "Tickets": [
       {
         "MovieTitle": "Inception",
-        "DateAndTime": "2024-01-30T21:38:08.5469793+01:00",
+        "DateAndTime": "2024-01-31T09:44:51.8092039+01:00",
         "Seat": "1-1",
         "Premium": false,
         "Price": 10.0
       },
       {
         "MovieTitle": "Inception",
-        "DateAndTime": "2024-01-30T21:38:08.5469793+01:00",
+        "DateAndTime": "2024-01-31T09:44:51.8092039+01:00",
         "Seat": "1-2",
+        "Premium": true,
+        "Price": 13.0
+      },
+      {
+        "MovieTitle": "Inception",
+        "DateAndTime": "2024-01-31T09:44:51.8092039+01:00",
+        "Seat": "1-3",
         "Premium": true,
         "Price": 13.0
       }
     ],
-    "TotalPrice": 10.0
+    "TotalPrice": 23.0
   }
 }

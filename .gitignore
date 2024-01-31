@@ -4,3 +4,8 @@
 *.bin
 .vs
 .vs/Bioscoo_DW.Console/v17/.suo
+*.dll
+*.dll
+*.pdb
+*.dll
+*.pdb
