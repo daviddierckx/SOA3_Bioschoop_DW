@@ -50,13 +50,13 @@ namespace Bioscoop_DW.Common.Models
                 }
 
                 // Regel: Elk 2e ticket is gratis voor iedereen op doordeweekse dagen
-                if (!isStudentOrder && i % 2 == 1 && ticket.MovieScreening.IsWeekday())
+                if (i % 2 == 1 && ticket.MovieScreening.IsWeekday())
                 {
                     continue; // Skip het tweede ticket op doordeweekse dagen
                 }
 
                 // Regel: In het weekend krijgen groepen van 6 of meer 10% korting
-                if (!isStudentOrder && ticket.MovieScreening.IsWeekend() && seatReservations.Count >= 6)
+                if (ticket.MovieScreening.IsWeekend() && seatReservations.Count >= 6)
                 {
                     totalPrice += 0.9 * ticket.GetPrice(isStudentOrder);
                 }
