@@ -56,7 +56,7 @@ namespace Bioscoop_DW.Common.Models
                 }
 
                 // Regel: In het weekend krijgen groepen van 6 of meer 10% korting
-                if (ticket.MovieScreening.IsWeekend() && seatReservations.Count >= 6)
+                if (!isStudentOrder && ticket.MovieScreening.IsWeekend() && seatReservations.Count >= 6)
                 {
                     totalPrice += 0.9 * ticket.GetPrice(isStudentOrder);
                 }
