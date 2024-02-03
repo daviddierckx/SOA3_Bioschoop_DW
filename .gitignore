@@ -1,4 +1,15 @@
-
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vspscc
+*.vsp
+*.pidb
+*.userprefs
+*.dbmdl
 *.vsidx
 *.v2
 *.bin
@@ -10,3 +21,5 @@
 *.dll
 *.pdb
 .vs/Bioscoo_DW.Console/v17/.suo
+
+

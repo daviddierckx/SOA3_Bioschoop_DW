@@ -135,5 +135,48 @@ namespace Bioschoop_DW.Test
             Assert.Equal( 40, totalPrice);
         }
 
+
+        [Fact]
+        public void CalculatePrice_TwoTickets_Student_Weekday()
+        {
+            // Arrange
+            // Create an order with two tickets, not for students, and on a weekday
+            // You may need to adjust the constructor based on your actual implementation
+            Movie movie = new Movie("Inception");
+            MovieScreening screening = new MovieScreening(movie, new DateTime(2024, 2, 1), 10.0);
+            MovieTicket ticket1 = new MovieTicket(screening, false, 1, 1);
+            MovieTicket ticket2 = new MovieTicket(screening, false, 1, 2);
+            Order order = new Order(2, true);
+            order.AddSeatReservation(ticket1);
+            order.AddSeatReservation(ticket2);
+
+            // Act
+            double totalPrice = order.CalculatePrice();
+
+            // Assert
+            // Implement your expected total price based on the provided rules
+            Assert.Equal(10, totalPrice);
+        }
+        [Fact]
+        public void CalculatePrice_TwoPremiumTickets_Student_Weekday()
+        {
+            // Arrange
+            // Create an order with two tickets, not for students, and on a weekday
+            // You may need to adjust the constructor based on your actual implementation
+            Movie movie = new Movie("Inception");
+            MovieScreening screening = new MovieScreening(movie, new DateTime(2024, 2, 1), 10.0);
+            MovieTicket ticket1 = new MovieTicket(screening, true, 1, 1);
+            MovieTicket ticket2 = new MovieTicket(screening, true, 1, 2);
+            Order order = new Order(2, true);
+            order.AddSeatReservation(ticket1);
+            order.AddSeatReservation(ticket2);
+
+            // Act
+            double totalPrice = order.CalculatePrice();
+
+            // Assert
+            // Implement your expected total price based on the provided rules
+            Assert.Equal(12, totalPrice);
+        }
     }
 }

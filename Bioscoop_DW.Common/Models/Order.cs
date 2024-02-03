@@ -66,7 +66,7 @@ namespace Bioscoop_DW.Common.Models
                 }
             }
 
-            return totalPrice;
+            return Math.Round(totalPrice, 2);
         }
 
         public void Export(TicketExportFormat exportFormat, string fileName)
