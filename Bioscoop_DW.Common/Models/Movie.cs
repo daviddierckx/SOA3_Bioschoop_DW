@@ -8,20 +8,26 @@ namespace Bioscoop_DW.Common.Models
 {
     public class Movie
     {
-        private readonly string Title;
+        private readonly string title;
 
         public Movie(string title)
         {
-            Title = title;
+            this.title = title;
         }
 
         public void addScreening(MovieScreening screening)
         {
 
         }
+
+        public string Title
+        {
+            get { return title; }
+        }
+
         public override string ToString()
         {
-            return Title;
+            return title;
         }
     }
 }

@@ -12,6 +12,10 @@ namespace Bioscoop_DW.Common.Models
         private readonly int seatNr;
         private readonly bool isPremium;
         private readonly MovieScreening movieScreening;
+        public MovieScreening MovieScreening
+        {
+            get { return movieScreening; }
+        }
 
         public MovieTicket(MovieScreening movieScreening, bool isPremiumReservation, int seatRow, int seatNumber)
         {
@@ -28,7 +32,26 @@ namespace Bioscoop_DW.Common.Models
 
         public double GetPrice(bool isStudentOrder)
         {
-            return 0;
+            double basePrice = movieScreening.GetPricePerSeat();
+
+            // Regel: Een premium ticket is voor studenten 2,- duurder, voor niet-studenten 3,-
+            double premiumPriceDifference = isStudentOrder ? 2.0 : 3.0;
+            if (isPremium)
+            {
+                return basePrice + premiumPriceDifference;
+            }
+
+            return basePrice;
+        }
+
+
+        public int RowNr
+        {
+            get { return rowNr; }
+        }
+        public int SeatNr
+        {
+            get { return seatNr; }
         }
 
         public override string ToString()

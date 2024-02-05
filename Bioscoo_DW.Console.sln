@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bioscoo_DW.Console", "Bioscoo_DW.Console\Bioscoo_DW.Console.csproj", "{A2B19C5C-8D1C-474C-9FCE-FDFB2DA37004}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bioscoo_DW.Console", "Bioscoo_DW.Console\Bioscoo_DW.Console.csproj", "{A2B19C5C-8D1C-474C-9FCE-FDFB2DA37004}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bioscoop_DW.Common", "Bioscoop_DW.Common\Bioscoop_DW.Common.csproj", "{AF1DBE05-B1D9-4B33-82D6-C3CD5674901C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bioscoop_DW.Common", "Bioscoop_DW.Common\Bioscoop_DW.Common.csproj", "{AF1DBE05-B1D9-4B33-82D6-C3CD5674901C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bioschoop_DW.Test", "Bioschoop_DW.Test\Bioschoop_DW.Test.csproj", "{9E17D31E-B9DF-40A7-A4A3-A978ABA7776E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AF1DBE05-B1D9-4B33-82D6-C3CD5674901C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF1DBE05-B1D9-4B33-82D6-C3CD5674901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF1DBE05-B1D9-4B33-82D6-C3CD5674901C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E17D31E-B9DF-40A7-A4A3-A978ABA7776E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E17D31E-B9DF-40A7-A4A3-A978ABA7776E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E17D31E-B9DF-40A7-A4A3-A978ABA7776E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E17D31E-B9DF-40A7-A4A3-A978ABA7776E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

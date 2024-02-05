@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iYnN79goVbQE01m8D4O2xHXRy1S3KId+6VnfgIFvKamjvLNq7qdm7lXyJJRggoldXXt42u1EX7+SRbFxMLT/3g==",
+  "dgSpecHash": "8rfzynaVPNqpfOGQRsi5DPdkPn4RO8FpQtT8MQM7vrqJDVnItCVbx+vWT57Oh5vsh8VoGx40BGUwfOGXZCHzSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dierc\\source\\repos\\Bioscoo_DW.Console\\Bioscoop_DW.Common\\Bioscoop_DW.Common.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\dierc\\OneDrive\\Bureaublad\\hetRondje\\share-meal\\SOA3_Bioschoop_DW\\Bioscoop_DW.Common\\Bioscoop_DW.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dierc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
