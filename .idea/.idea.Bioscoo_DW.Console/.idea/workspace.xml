@@ -8,40 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1ebd268-e472-4910-94ee-13f258d84e8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Bioscoo_DW.Console/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bioscoo_DW.Console/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/Bioschoop_DW.Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/Bioschoop_DW.Test.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/bin/Debug/net7.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/bin/Debug/net7.0/CoverletSourceRootsMapping" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Bioschoop_DW.Test.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Bioschoop_DW.Test.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Bioschoop_DW.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Bioschoop_DW.Test.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/Debug/net7.0/Bioschoop_DW.Test.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioschoop_DW.Test/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/Bioscoo_DW.Console.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/Bioscoo_DW.Console.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Bioscoo_DW.Console.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Bioscoo_DW.Console.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Bioscoo_DW.Console.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Bioscoo_DW.Console.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/Debug/net7.0/Bioscoo_DW.Console.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoo_DW.Console/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/Bioscoop_DW.Common.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/Bioscoop_DW.Common.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Bioscoop_DW.Common.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Bioscoop_DW.Common.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Bioscoop_DW.Common.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Bioscoop_DW.Common.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/Debug/net7.0/Bioscoop_DW.Common.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Bioscoop_DW.Common/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707119982783</updated>
       <workItem from="1707119985287" duration="707000" />
-      <workItem from="1707121656684" duration="310000" />
+      <workItem from="1707121656684" duration="974000" />
     </task>
     <servers />
   </component>
